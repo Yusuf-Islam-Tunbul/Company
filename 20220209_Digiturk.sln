@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20220209_Digiturk", "20220209_Digiturk\20220209_Digiturk.csproj", "{5347054A-EEF5-4FB5-A000-D86BE9668E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5347054A-EEF5-4FB5-A000-D86BE9668E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5347054A-EEF5-4FB5-A000-D86BE9668E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5347054A-EEF5-4FB5-A000-D86BE9668E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5347054A-EEF5-4FB5-A000-D86BE9668E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986D6711-9074-4E25-897F-1F2E680522B9}
+	EndGlobalSection
+EndGlobal
